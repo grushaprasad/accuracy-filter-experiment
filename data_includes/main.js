@@ -159,7 +159,7 @@ PennController("participant_obs",
 PennController.SendResults("send_results");
 
 PennController("exp_end", 
-    newText("end", "Thank you for participating in this experiment. Your survey code is TyhRSx3k7. If you performed well on this task, you will automatically be qualified to participate in future experiments from our lab. Please look for those if you are interested in participating!")
+    newText("end", "Thank you for participating in this experiment. Your survey code is Afj7832Y.If you performed well on this task, you will automatically be qualified to participate in future experiments from our lab. Please look for those if you are interested in participating!")
         .print()
     ,
 
