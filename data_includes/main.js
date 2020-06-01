@@ -49,7 +49,7 @@ PennController.Template(row => PennController( "experiment" ,
         .print()
     ,
 
-    newVar("RT_sentence").global().set( v_prime => Date.now())
+    newVar("RT_sentence").global().set( v_sent => Date.now())
     ,
     
     newButton("sentence", "Continue")
@@ -60,10 +60,10 @@ PennController.Template(row => PennController( "experiment" ,
         .remove()
     ,
 
-    getVar("RT_sentence").set( v_prime => Date.now() - v_prime )
+    getVar("RT_sentence").set( v_sent => Date.now() - v_sent )
     ,
 
-    getText("Prime")
+    getText("Sentence")
         .remove()
     ,
 
