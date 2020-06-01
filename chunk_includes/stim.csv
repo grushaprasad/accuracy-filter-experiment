@@ -1,31 +1,41 @@
 stim_id,sentence,question,correct_resp,stim_num
-stim23,"Since the band cancelled the concert, the fans who had tickets were reimbursed.",Did the fans get their money back?,yes,1
-stim17,A fly landed on the soup a customer was eating so the waitress threw the meal out.,Was the customer eating soup?,yes,2
-stim18,Almost any mechanic can talk for hours about techniques he's discovered in auto repair.,Do most mechanics discover new techniques?,yes,3
-stim21,While the boys played hide and seek the parents went to take a nap.,Were the boys awake?,yes,4
-stim12,The retailer estimated the price and made his offer accordingly.,Was the retailer making a random offer?,no,5
-stim24,The speaker articulated the ideas in a very eloquent fashion.,Was the speaker expressing himself clearly?,yes,6
-stim5,The name tag on the blouse of the guest speaker took attention away from the coffee stain underneath.,Did the speaker spill tea on her blouse?,no,7
-stim27,The valedictorian quoted the famous saying by John Kennedy in his graduation speech.,Did the valedictorian quote John Kennedy?,yes,8
-stim20,"Once her boyfriend went to the bathroom, a naval officer approached the girl at the bar.",Was the girl dating someone?,yes,9
-stim14,The student realized the mistake as soon as he turned in his exam.,Did the student answer everything correctly?,no,10
-stim28,The journalist doubted the validity of the statement that was released by the corporation.,Did the journalist think the statement might not be true?,yes,11
-stim6,While the seamstress sewed a dress the tailor went to the track to bet on the ponies.,Did the tailor help make a dress?,no,12
-stim11,The missionary chanted the prayer together with his fellow worshipers.,Was the missionary praying by himself?,no,13
-stim3,A cousin proved his social ineptness by making an insensitive joke at the funeral.,Was the cousin's comment appropriate?,no,14
-stim15,The teacher sensed the mood of the children and turned to a different activity.,Did the teacher continue with the same activity?,no,15
-stim1,The hairdresser hired an assistant who had been recommended to him by his cousin.,Did the hairdresser's mother recommend the assistant?,no,16
-stim8,"Although the host forgot the cookies, there were plenty of other desserts for the guests to pick from.",Were cookies served to the guests?,no,17
-stim19,The witness narrated the events of that night as he remembered them.,Was the witness telling his version of the events?,yes,18
-stim29,The dispatcher expected the package and told the driver to wait for it.,Did the dispatcher think the package was about to arrive?,yes,19
-stim16,The clerk at the store stabbed the new boss because he had forgotten to take his medication.,Was the boss new?,yes,20
-stim4,The store clerk trusted the customer who said the toy she had purchased was broken.,Did the store clerk think that the woman was lying about the toy?,no,21
-stim13,The student guessed the answer to the question and marked it on the sheet.,Did the student skip the question?,no,22
-stim30,The neighbor overheard the conversation but pretended not to have noticed anything.,Did the neighbor hear what was spoken?,yes,23
-stim25,The trainer noted the success of his team at the recent tournament.,Was the team succesful?,yes,24
-stim7,Although Brad knew the answer he did not have enough time to write it down.,Did Brad write an answer to the question?,no,25
-stim9,"As soon as Terry entered the room, his sister complained about his appearance.",Did Terry's sister like the way he looked?,no,26
-stim22,Because the fugutive roamed the area the residents secured all their doors and windows.,Was the fugutive nearby?,yes,27
-stim2,The harpist was well liked by most of the musicians in the orchestra but decided to leave anyway.,Was the harpist treated poorly by the rest of the orchestra?,no,28
-stim10,The astronaut reported the findings from the latest mission to his colleagues.,Did the astronaut refuse to share his findings with others?,no,29
-stim26,Ms. Taylor sang the ballad with a passion that moved everyone in the audience.,Did Ms. Taylor deliver a moving performance?,yes,30
+stim2,The hairdresser hired an assistant who had been recommended to him by his cousin.,Did the hairdresser's mother recommend the assistant?,no,1
+stim1,The patrolmen who were on the peak rescued the skier after giving up all hope of a happy ending.,Was the skier killed?,no,2
+stim4,The company party was more rowdy than usual since someone had spiked the punch.,Was the party boring?,no,3
+stim38,The journalist doubted the validity of the statement that was released by the corporation.,Did the journalist think the statement might not be true?,yes,4
+stim17,The student guessed the answer to the question and marked it on the sheet.,Did the student skip the question?,no,5
+stim3,The harpist was well liked by most of the musicians in the orchestra but decided to leave anyway.,Was the harpist treated poorly by the rest of the orchestra?,no,6
+stim29,"Once her boyfriend went to the bathroom, a naval officer approached the girl at the bar.",Was the girl dating someone?,yes,7
+stim8,The name tag on the blouse of the guest speaker took attention away from the coffee stain underneath.,Did the speaker spill tea on her blouse?,no,8
+stim27,Almost any mechanic can talk for hours about techniques he's discovered in auto repair.,Do most mechanics discover new techniques?,yes,9
+stim33,"Since the band cancelled the concert, the fans who had tickets were reimbursed.",Did the fans get their money back?,yes,10
+stim34,The speaker articulated the ideas in a very eloquent fashion.,Was the speaker expressing himself clearly?,yes,11
+stim31,Because the fugutive roamed the area the residents secured all their doors and windows.,Was the fugutive nearby?,yes,12
+stim22,The clerk at the store stabbed the new boss because he had forgotten to take his medication.,Was the boss new?,yes,13
+stim9,While the seamstress sewed a dress the tailor went to the track to bet on the ponies.,Did the tailor help make a dress?,no,14
+stim36,Ms. Taylor sang the ballad with a passion that moved everyone in the audience.,Did Ms. Taylor deliver a moving performance?,yes,15
+stim30,While the boys played hide and seek the parents went to take a nap.,Were the boys awake?,yes,16
+stim15,The missionary chanted the prayer together with his fellow worshipers.,Was the missionary praying by himself?,no,17
+stim23,The battleship fired at the patrol boat despite the fact that the vessel had offered to surrender.,Was the patrol boat attacked by the battleship?,yes,18
+stim35,The trainer noted the success of his team at the recent tournament.,Was the team succesful?,yes,19
+stim14,The astronaut reported the findings from the latest mission to his colleagues.,Did the astronaut refuse to share his findings with others?,no,20
+stim37,The valedictorian quoted the famous saying by John Kennedy in his graduation speech.,Did the valedictorian quote John Kennedy?,yes,21
+stim16,The retailer estimated the price and made his offer accordingly.,Was the retailer making a random offer?,no,22
+stim39,The dispatcher expected the package and told the driver to wait for it.,Did the dispatcher think the package was about to arrive?,yes,23
+stim20,The comedian remembered the joke and used it as an encore.,Did the comedian forget the joke?,no,24
+stim7,The librarian noticed that a large number of very rare books were misplaced after the carpenters had completed their job.,Did a student notice the misplaced books?,no,25
+stim13,"As soon as Terry entered the room, his sister complained about his appearance.",Did Terry's sister like the way he looked?,no,26
+stim32,While the athletes ran the track the obstacle course was undergoing massive renovations.,Was the obstacle course being renovated?,yes,27
+stim10,Because the passenger missed the train he had to wait for the next one which was scheduled two hours later.,Was the passenger on time?,no,28
+stim6,The store clerk trusted the customer who said the toy she had purchased was broken.,Did the store clerk think that the woman was lying about the toy?,no,29
+stim40,The neighbor overheard the conversation but pretended not to have noticed anything.,Did the neighbor hear what was spoken?,yes,30
+stim25,A fly landed on the soup a customer was eating so the waitress threw the meal out.,Was the customer eating soup?,yes,31
+stim12,"Although the host forgot the cookies, there were plenty of other desserts for the guests to pick from.",Were cookies served to the guests?,no,32
+stim5,A cousin proved his social ineptness by making an insensitive joke at the funeral.,Was the cousin's comment appropriate?,no,33
+stim19,The teacher sensed the mood of the children and turned to a different activity.,Did the teacher continue with the same activity?,no,34
+stim11,Although Brad knew the answer he did not have enough time to write it down.,Did Brad write an answer to the question?,no,35
+stim28,The witness narrated the events of that night as he remembered them.,Was the witness telling his version of the events?,yes,36
+stim24,The exhibition offended the public who petitioned the mayor to withhold funding from the museum.,Did the public dislike the artwork?,yes,37
+stim26,The gas tank was making ominous sounds after the long car ride.,Was the gas tank emitting noise?,yes,38
+stim18,The student realized the mistake as soon as he turned in his exam.,Did the student answer everything correctly?,no,39
+stim21,The graduate student who the professor from the university respected trained the researcher.,Did the professor work at a university?,yes,40
